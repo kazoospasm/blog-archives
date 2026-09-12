@@ -1,0 +1,2325 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Science &amp; Culture — 2012 Archive</title>
+    <link>https://kieranhealy.org/blog/</link>
+    <description>Unofficial personal reading index: 2012 posts from the Science &amp; Culture reading list. Original titles and links only. Where only a calendar date is known, noon UTC is a labelled sorting placeholder.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 12 Sep 2026 00:59:28 GMT</lastBuildDate>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Statistical modeling, causal inference, and social science</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/31/a-debate-in-economics-about-blinding-of-experimental-treatments-leading-to-a-desire-for-more-research-by-psychologists-in-this-area/</link>
+      <pubDate>Mon, 31 Dec 2012 14:05:22 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-31T14:05:22Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:131472b6407ec78d62d61677d48ae9d72570cd9ea4b641bc1928e60fa83f5571</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Fixed effects, followed by Bayes shrinkage?</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/30/fixed-effects-followed-by-bayes-shrinkage/</link>
+      <pubDate>Sun, 30 Dec 2012 14:41:54 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-30T14:41:54Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:bdbcba377b6f92ba4954c060d907063b969cf0058ac3a31da3a676037732e4af</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Sexism in science (as elsewhere)</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/29/sexism-in-science-as-elsewhere/</link>
+      <pubDate>Sat, 29 Dec 2012 14:54:14 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-29T14:54:14Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:5db44ac8be1eae46b853ad1d6a4d7c7f83a9febbcf983cd6798a23252c5f1ee7</guid>
+    </item>
+    <item>
+      <title>[Terence Tao — What’s New] A mathematical formalisation of dimensional analysis</title>
+      <link>https://terrytao.wordpress.com/2012/12/29/a-mathematical-formalisation-of-dimensional-analysis/</link>
+      <pubDate>Sat, 29 Dec 2012 12:00:00 GMT</pubDate>
+      <category>Terence Tao — What’s New</category>
+      <description>Source: Terence Tao — What’s New. Publication date: 2012-12-29. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Terence Tao</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:1a77b2fdaccdf628ad9f0cbc08754911b03aaef3fbea44284ff25c9f64cf7112</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] New book by Stef van Buuren on missing-data imputation looks really good!</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/28/new-book-by-stef-van-buuren-on-missing-data-imputation-looks-really-good/</link>
+      <pubDate>Fri, 28 Dec 2012 14:19:17 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-28T14:19:17Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:c5f694df2454b89a570755a285bef8b65555e0e714d86122270eba73082aa284</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] A Higher Stacky Perspective On Chern-Simons Theory</title>
+      <link>https://golem.ph.utexas.edu/category/2012/12/a_higher_stacky_perspective_on.html</link>
+      <pubDate>Fri, 28 Dec 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-12-28. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Urs Schreiber</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:eeecafd947e340c53c69b78c8a7da0df72780c4bc715440d13de74d22548414d</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] The Möbius strip, or, marketing that is impervious to criticism</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/27/mobius/</link>
+      <pubDate>Thu, 27 Dec 2012 14:10:49 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-27T14:10:49Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:794c980b2cf9ca4ff661d4628810fe8c54f38f836a9c24118a881325ebbc10ad</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Our Galactic Environment</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/12/27/our-galactic-environment/</link>
+      <pubDate>Thu, 27 Dec 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-12-27. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:0fea8379a0d0e90cccf01f0b138736423342b2dcaa8b736bf22782d62a02d207</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] What do people do wrong? WSJ columnist is looking for examples!</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/26/what-do-people-do-wrong/</link>
+      <pubDate>Wed, 26 Dec 2012 16:38:59 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-26T16:38:59Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:c07690e569f05f812ecc40cb4343d4d3ddd03aa5ec64cc02859292d4e8a5c803</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Impersonators</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/26/impersonators/</link>
+      <pubDate>Wed, 26 Dec 2012 14:27:31 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-26T14:27:31Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:1ec08e8c0e058ec056d51a19fcc2f09298321fa51b3bd63ee8e872f60ce4881d</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Diving chess</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/25/diving-chess/</link>
+      <pubDate>Tue, 25 Dec 2012 14:57:20 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-25T14:57:20Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:b3b727264a7dd040071e98da761340db91f535ed3dc1db0cc9456d1e29b0c8bd</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Textbook for data visualization?</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/24/textbook-for-data-visualization/</link>
+      <pubDate>Mon, 24 Dec 2012 14:49:38 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-24T14:49:38Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:7b180f41e09a4926193cf74928ded0238d2f119de37152de6e0b97da21998ed0</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] Category Theory 2013</title>
+      <link>https://golem.ph.utexas.edu/category/2012/12/category_theory_2013.html</link>
+      <pubDate>Mon, 24 Dec 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-12-24. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Tom Leinster</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:bebff61e34a1791ba585fe5a617e21cd4c9e3827ffee238bd4c13682ee8155ce</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Peter Bartlett on model complexity and sample size</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/23/peter-bartlett-on-model-complexity-and-sample-size/</link>
+      <pubDate>Sun, 23 Dec 2012 14:23:16 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-23T14:23:16Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:98ce6b1dfe2538a62ae2338d42a92cb42c73833fd280c0351913c0ecc7ca124c</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] More Pinker Pinker Pinker</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/22/more-pinker-pinker-pinker/</link>
+      <pubDate>Sat, 22 Dec 2012 14:01:27 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-22T14:01:27Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:d9b462e9b0bd99e6961e066cd61482c5a253e6ca92c92665c35c7e5824576f3b</guid>
+    </item>
+    <item>
+      <title>[Terence Tao — What’s New] An introduction to special relativity for a high school math circle</title>
+      <link>https://terrytao.wordpress.com/2012/12/22/an-introduction-to-special-relativity-for-a-high-school-math-circle/</link>
+      <pubDate>Sat, 22 Dec 2012 12:00:00 GMT</pubDate>
+      <category>Terence Tao — What’s New</category>
+      <description>Source: Terence Tao — What’s New. Publication date: 2012-12-22. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Terence Tao</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:064f40328a03e8aef3e46cb6aea89d1934f3d9be7825b77fd67e6bd9f8556f55</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Two reviews of Nate Silver’s new book, from Kaiser Fung and Cathy O’Neil</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/21/two-reviews-of-nate-silvers-new-book-from-kaiser-fung-and-cathy-oneil/</link>
+      <pubDate>Fri, 21 Dec 2012 15:00:08 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-21T15:00:08Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:b60448d0a55e1624ce5ecde03a99c5587cbb66a1d3931f8c3c58ad88ee2e34fd</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Happy 13.0.0.0.0!</title>
+      <link>https://bactra.org/weblog/989.html</link>
+      <pubDate>Fri, 21 Dec 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-12-21. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:7da17770d2d4079fbc13fa8afb66331b9fa473fc5defc96394c6984d3f04b735</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Kahan on Pinker on politics</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/21/kahan-on-pinker-on-politics/</link>
+      <pubDate>Fri, 21 Dec 2012 06:00:38 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-21T06:00:38Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:723172d38c942d48da53cfe22721c24449d2466b9e5dc3c727e2290b4ac4e819</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Who exactly are those silly academics who aren’t as smart as a Vegas bookie?</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/20/who-exactly-are-those-silly-academics-who-arent-as-smart-as-a-vegas-bookie/</link>
+      <pubDate>Thu, 20 Dec 2012 14:03:18 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-20T14:03:18Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:194d0689471ba76a7406efcbb3f9b7ce8fbd9911271dc2d5ac3452312bcd7189</guid>
+    </item>
+    <item>
+      <title>[Kieran Healy] The New York Times and the OECD</title>
+      <link>https://kieranhealy.org/blog/archives/2012/12/20/the-new-york-times-and-the-oecd/</link>
+      <pubDate>Thu, 20 Dec 2012 12:00:00 GMT</pubDate>
+      <category>Kieran Healy</category>
+      <description>Source: Kieran Healy. Publication date: 2012-12-20. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Kieran Healy</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:88cbb4e0965f661dca4f3602d7c6682206779b6c544709a4fd4438d844ca68fa</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Petri Net Programming (Part 2)</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/12/20/petri-net-programming-part-2/</link>
+      <pubDate>Thu, 20 Dec 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-12-20. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:a168bf099966abee9f5682c5f8dae92e93dac2221ff4550111d967073e57ca5e</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] Names For Equivalences</title>
+      <link>https://golem.ph.utexas.edu/category/2012/12/names_for_equivalences.html</link>
+      <pubDate>Thu, 20 Dec 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-12-20. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Mike Shulman</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:d2c78f337ea3e6212c3cdbead5e973472d32382fbb1c738735e7e56ccd3f34ba</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] "Learning Spatio-Temporal Dynamics"</title>
+      <link>https://bactra.org/weblog/988.html</link>
+      <pubDate>Thu, 20 Dec 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-12-20. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:55ea530466a96fd048c1e0d723e66be158642b8a0e32e840fbade7c1da8211f5</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Steven Pinker is a psychologist who writes on politics. His theories are interesting but are framed too universally to be valid</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/19/a-psychologist-writes-on-politics-his-theories-are-interesting-but-are-framed-too-universally-to-be-valid/</link>
+      <pubDate>Wed, 19 Dec 2012 14:46:43 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-19T14:46:43Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:1bd0f1e0b714b3d14381ed4c634d155edebc495886c956aa413923cd7fd9917e</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] It happened in Connecticut</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/18/it-happened-in-connecticut/</link>
+      <pubDate>Tue, 18 Dec 2012 20:05:56 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-18T20:05:56Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:43a20ec75e33aa4903c8b793ed52c61e6ffbc5c8338bcbef3c47a8ba1fbe34b7</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Postdoc positions at Microsoft Research – NYC</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/18/postdoc-positions-at-microsoft-research-nyc/</link>
+      <pubDate>Tue, 18 Dec 2012 14:29:14 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-18T14:29:14Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:e1534331b86ff5c1ca3a95365301626554d4b01ab186f6f17eb015eec100f999</guid>
+    </item>
+    <item>
+      <title>[Kieran Healy] Assault Death Rates in America: Some Follow-Up</title>
+      <link>https://kieranhealy.org/blog/archives/2012/12/18/assault-death-rates-in-america-some-follow-up/</link>
+      <pubDate>Tue, 18 Dec 2012 12:00:00 GMT</pubDate>
+      <category>Kieran Healy</category>
+      <description>Source: Kieran Healy. Publication date: 2012-12-18. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Kieran Healy</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:c59e908808b4638c9805a481477a3c7f9858b8b0fbbbab11f567c7ebd0bd6b5c</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Teaching the Math of Climate Science</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/12/18/teaching-the-math-of-climate-science/</link>
+      <pubDate>Tue, 18 Dec 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-12-18. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:5f9d387183e7c4b0a1bb659760b681f929323232942ed64ea1285552c017f989</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] Rethinking Set Theory</title>
+      <link>https://golem.ph.utexas.edu/category/2012/12/rethinking_set_theory.html</link>
+      <pubDate>Tue, 18 Dec 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-12-18. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Tom Leinster</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:07c2f00ea4766f378f05166bf0f2b481553a045ffa35a9eecc2005002b73c382</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] Enriched Indexed Categories</title>
+      <link>https://golem.ph.utexas.edu/category/2012/12/enriched_indexed_categories.html</link>
+      <pubDate>Tue, 18 Dec 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-12-18. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Mike Shulman</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:38764b0d1451cc011ff4acb4343f4d6653bb5ef622b67fa3437f8b5356ef100e</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] Category-Theoretic Foundations in Irvine</title>
+      <link>https://golem.ph.utexas.edu/category/2012/12/categorytheoretic_foundations.html</link>
+      <pubDate>Tue, 18 Dec 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-12-18. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:8f031fbc387d7fa4e7475d3342766f09a7e522724fc76d20feb114685ad9aa31</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Stan and RStan 1.1.0</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/17/stan-and-rstan-1-1-0/</link>
+      <pubDate>Mon, 17 Dec 2012 22:48:10 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-17T22:48:10Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:00dc4e6e52d97be3f477e718d9d7391119782b1b11d477114c4c428a2496c159</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Statistics in a world where nothing is random</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/17/statistics-in-a-world-where-nothing-is-random/</link>
+      <pubDate>Mon, 17 Dec 2012 15:51:34 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-17T15:51:34Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:792d62d38fd56629dda757ed4788e3519de35c7f585e432916783e8100b7396e</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] The lamest, grudgingest, non-retraction retraction ever</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/16/its-unscientific-behavior-not-to-admit-an-error/</link>
+      <pubDate>Sun, 16 Dec 2012 14:48:44 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-16T14:48:44Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:79e2d966d93dfba0d032ad1d579b96605780582dcd328f464a1ea030df6c1962</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] “I coach the jumpers here at Boise State . . .”</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/15/i-coach-the-jumpers-here-at-boise-state/</link>
+      <pubDate>Sat, 15 Dec 2012 22:06:33 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-15T22:06:33Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:9ea32a39b5c0dab3ea38e1a1f8e284cc025b11958a48f3788232ddd89893741d</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] New prize on causality in statstistics education</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/15/new-prize-on-causality-in-statstistics-education/</link>
+      <pubDate>Sat, 15 Dec 2012 14:55:22 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-15T14:55:22Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:e5d9a866bc3fe69b95e77616160a548fcd954a76f3bc948a0dabad5536f1cc6d</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Can gambling addicts be identified in gambling venues?</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/14/can-gambling-addicts-be-identified-in-gambling-venues/</link>
+      <pubDate>Fri, 14 Dec 2012 23:56:59 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-14T23:56:59Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:a8f7ab5273e3eddd75e305ca27c0d9f365ec0d207637dc5d24439d755b358b13</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] GiveWell charity recommendations</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/14/givewell-charity-recommendations/</link>
+      <pubDate>Fri, 14 Dec 2012 14:10:52 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-14T14:10:52Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:3101c5f2fe5c825cd39214e02ea8d884834d38ac53777108f67e2acaabe6fc34</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Game Theory for Undergraduates</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/12/14/game-theory-for-undergraduates/</link>
+      <pubDate>Fri, 14 Dec 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-12-14. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:d7359de3df9f921e41a9c143dc9996c74f881a5af8aef518509698ada59dd64e</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] The Additivity of Traces in Stable Monoidal Derivators</title>
+      <link>https://golem.ph.utexas.edu/category/2012/12/the_additivity_of_traces_in_st.html</link>
+      <pubDate>Fri, 14 Dec 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-12-14. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Mike Shulman</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:82140e52654185868ff3d5df65489a23200feb4553042a7edfca2b803e4b93e6</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Puzzles of criminal justice</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/13/puzzles-of-criminal-justice/</link>
+      <pubDate>Thu, 13 Dec 2012 14:02:06 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-13T14:02:06Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:8c1ff7583f0ff007fa63a857687510dfdcd49ea9cde29bf076517e534189ddb2</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] “Teaching effectiveness” as another dimension in cognitive ability</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/12/teaching-effectiveness-as-another-dimension-in-cognitive-ability/</link>
+      <pubDate>Wed, 12 Dec 2012 14:14:29 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-12T14:14:29Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:1906613e5bc343623a2fcc22911fb7653332d573a48bb9187e3946d391c87257</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] The consulting biz</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/11/the-consulting-biz/</link>
+      <pubDate>Tue, 11 Dec 2012 21:26:10 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-11T21:26:10Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:ee19206979121c9e8efc49207ac9d6104bf52ffd90dbd950d6d22149a534a9d2</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Math Talks :: Action Movies</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/11/math-talks-action-movies/</link>
+      <pubDate>Tue, 11 Dec 2012 21:11:08 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-11T21:11:08Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:38f5a7e9f6e8ba32532976c4d5cb716cb7aae00eff4e1eec27dc9757ea7a8525</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] There are four ways to get fired from Caesars: (1) theft, (2) sexual harassment, (3) running an experiment without a control group, and (4) keeping a gambling addict away from the casino</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/11/there-are-four-ways-to-get-fired-from-caesars-1-theft-2-sexual-harassment-3-running-an-experiment-without-a-control-group-and-4-keeping-a-gambling-addict-away-from-the-casino/</link>
+      <pubDate>Tue, 11 Dec 2012 14:28:13 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-11T14:28:13Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:8e0b682c31c4ebb866e6703eaa030c091a9054a836b99d44c9d2a7ceed980880</guid>
+    </item>
+    <item>
+      <title>[Terence Tao — What’s New] Mixing for progressions in non-abelian groups</title>
+      <link>https://terrytao.wordpress.com/2012/12/11/mixing-for-progressions-in-non-abelian-groups/</link>
+      <pubDate>Tue, 11 Dec 2012 12:00:00 GMT</pubDate>
+      <category>Terence Tao — What’s New</category>
+      <description>Source: Terence Tao — What’s New. Publication date: 2012-12-11. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Terence Tao</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:1a986301dedb721c44c822fe13be0877f85486f876605b2aad438680195866c9</guid>
+    </item>
+    <item>
+      <title>[Azimuth] I’m Looking For Good Math Grad Students</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/12/11/im-looking-for-good-math-grad-students/</link>
+      <pubDate>Tue, 11 Dec 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-12-11. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:a1db76de4f8a0ab44872a2d280d14b466803b382f0b54efbba0684dfe41c1749</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] A defense of Tom Wolfe based on the impossibility of the law of small numbers in network structure</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/10/a-defense-of-tom-wolfe-based-on-the-impossibility-of-the-law-of-small-numbers-in-network-structure/</link>
+      <pubDate>Mon, 10 Dec 2012 23:08:31 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-10T23:08:31Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:5d25c815abb45e494eb118834bd77651416ebff8e70a3eaa8aecd67afa1d86bb</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] John McAfee is a Heinlein hero</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/10/john-mcafee-is-a-heinlein-hero/</link>
+      <pubDate>Mon, 10 Dec 2012 14:46:33 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-10T14:46:33Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:2631a637468c63950aca6c628e1f3b3a56ac27fa49091de40256b74fdde2dd79</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Summering in the Adobe Tower (Dept. of Signal Amplification)</title>
+      <link>https://bactra.org/weblog/987.html</link>
+      <pubDate>Mon, 10 Dec 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-12-10. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:674d37441d80d3e22da070b2bd0cb2733e1f1ec94ddc9a8f01b785906e0e6d16</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] The pretty picture is just the beginning of the data exploration. But the pretty picture is a great way to get started. Another example of how a puzzle can make a graph appealing</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/09/17106/</link>
+      <pubDate>Sun, 09 Dec 2012 19:26:21 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-09T19:26:21Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:2ff23af2a07a002829de2aece3a1e0c46a024306be8f53e121ec8c2351d1a094</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Hey—here’s a photo of me making fun of a silly infographic (from last year)</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/09/hey-heres-a-photo-of-me-making-fun-of-a-silly-infographic-from-last-year/</link>
+      <pubDate>Sun, 09 Dec 2012 14:46:21 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-09T14:46:21Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:ab7223c4f23f491fb5fedd6f20ca469ed8162058680fcd6ff4ec543a00e702d8</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] Universe Polymorphism and Typical Ambiguity</title>
+      <link>https://golem.ph.utexas.edu/category/2012/12/universe_polymorphism_and_typi.html</link>
+      <pubDate>Sun, 09 Dec 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-12-09. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Mike Shulman</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:ba20cc299d263392c2e2313c509b89b17c864048a609442978e0c3955614745c</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Belated Book Chat</title>
+      <link>https://bactra.org/weblog/986.html</link>
+      <pubDate>Sun, 09 Dec 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-12-09. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:c1ce7f45dae4114f5a73289087aa60c0ba4d94631b15b8754d83785354cc85fc</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] The Case for More False Positives in Anti-doping Testing</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/08/the-case-for-more-false-positives-in-anti-doping-testing/</link>
+      <pubDate>Sat, 08 Dec 2012 14:50:37 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-08T14:50:37Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:6ed0a38a052f6146ca568afe5b424e3af5abeb678dacbfbd4dbc101090cef476</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] Bob on TAC</title>
+      <link>https://golem.ph.utexas.edu/category/2012/12/bob_on_tac.html</link>
+      <pubDate>Sat, 08 Dec 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-12-08. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Tom Leinster</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:75cc0d9373f2d32efb23898f6cbeff9c174ba0537f36bc9eab5a2bddf6375741</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Feedback on my Bayesian Data Analysis class at Columbia</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/07/feedback-on-my-bayesian-data-analysis-class-at-columbia/</link>
+      <pubDate>Fri, 07 Dec 2012 14:11:34 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-07T14:11:34Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:8517f2608aee0eed94920d84a7aff8e435bb929d329e490febaa55d84e644830</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] Research Fellowships in Edinburgh</title>
+      <link>https://golem.ph.utexas.edu/category/2012/12/research_fellowships_in_edinbu.html</link>
+      <pubDate>Fri, 07 Dec 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-12-07. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Tom Leinster</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:b6ae37ca172edb13c4bc0d2099797fdc76d339559d0a763d6306c146674c64fb</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Yes, checking calibration of probability forecasts is part of Bayesian statistics</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/06/yes-checking-calibration-of-probability-forecasts-is-part-of-bayesian-statistics/</link>
+      <pubDate>Thu, 06 Dec 2012 19:14:30 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-06T19:14:30Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:dfe36974a6d4861a5c185fcd7039bc8dc7a3977f620bc91f850cb7b9510b8796</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Stephen Kosslyn’s principles of graphics and one more: There’s no need to cram everything into a single plot</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/06/one-more-graphics-principle-for-stephen-kosslyn-theres-no-need-to-cram-everything-into-a-single-plot/</link>
+      <pubDate>Thu, 06 Dec 2012 14:25:11 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-06T14:25:11Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:4044f71ecc37bf11d45055c150b21ef322883d105270e8ba6e56d03e997d5855</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Confusing headline and capitalization leads to hopes raised, then dashed</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/06/confusing-headline-and-capitalization-leads-to-hopes-raised-then-dashed/</link>
+      <pubDate>Thu, 06 Dec 2012 12:52:45 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-06T12:52:45Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:2d5ea9f5e61fc33726cc0b0183db8fe9da9b97c622504a0659559791363557e2</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] What Can Category Theory Do For Philosophy?</title>
+      <link>https://golem.ph.utexas.edu/category/2012/12/what_can_category_theory_do_fo.html</link>
+      <pubDate>Thu, 06 Dec 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-12-06. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>David Corfield</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:5cbd70ed02f075af6a525f401c1399b6444d04ce4c9ee9ec0a4b11876e1d63c9</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] These are my preprints; also, publishers are to be destroyed</title>
+      <link>https://bactra.org/weblog/985.html</link>
+      <pubDate>Thu, 06 Dec 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-12-06. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:f9d9aec62de848862210448e51aa434a08742fafda642d885ce4fc6c6bda195d</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] The Grinch Comes Back</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/05/the-grinch-comes-back/</link>
+      <pubDate>Wed, 05 Dec 2012 21:45:05 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-05T21:45:05Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:105dab6430f2c15711f51d1940836e4562921d2d7046e0fb14e13fbb7e5922d0</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] The p-value is not . . .</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/05/the-p-value-is-not/</link>
+      <pubDate>Wed, 05 Dec 2012 14:16:33 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-05T14:16:33Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:040515f3cef15512b8b9b4fc1a39642d1d4d5659f71e7d1503f44aebbb20f862</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Write This Book</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/04/write-this-book/</link>
+      <pubDate>Tue, 04 Dec 2012 21:44:27 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-04T21:44:27Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:eda0ed011165416973cafbc082ff341f520e70fea2eec1a7cfc586708b781e5c</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] An epithet I can live with</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/04/an-epithet-i-can-live-with/</link>
+      <pubDate>Tue, 04 Dec 2012 14:41:38 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-04T14:41:38Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:b70a5dc514de1ae6fa71d9141238f36f3be945fd9c83e4aa8eed6f8002adbe44</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Mathematics of the Environment (Part 10)</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/12/04/mathematics-of-the-environment-part-10/</link>
+      <pubDate>Tue, 04 Dec 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-12-04. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:2ddcb59e4af670b763d6bb84b6464e59d61a03efa46c4c31f5fa8743b6bbcb87</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Somebody listened to me!</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/03/somebody-listened-to-me/</link>
+      <pubDate>Mon, 03 Dec 2012 14:18:38 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-03T14:18:38Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:7242cc338f702f0fcfadd88a3457fa9de882a1728c6f8780c22993c4a15387b4</guid>
+    </item>
+    <item>
+      <title>[Terence Tao — What’s New] The spectral proof of the Szemeredi regularity lemma</title>
+      <link>https://terrytao.wordpress.com/2012/12/03/the-spectral-proof-of-the-szemeredi-regularity-lemma/</link>
+      <pubDate>Mon, 03 Dec 2012 12:00:00 GMT</pubDate>
+      <category>Terence Tao — What’s New</category>
+      <description>Source: Terence Tao — What’s New. Publication date: 2012-12-03. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Terence Tao</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:13325a7238ae2843a3a2889aba35bb6372d310b6e47606289347dac3219b70ff</guid>
+    </item>
+    <item>
+      <title>[Kieran Healy] Goodnight Hypercritical</title>
+      <link>https://kieranhealy.org/blog/archives/2012/12/02/goodnight-hypercritical/</link>
+      <pubDate>Sun, 02 Dec 2012 12:00:00 GMT</pubDate>
+      <category>Kieran Healy</category>
+      <description>Source: Kieran Healy. Publication date: 2012-12-02. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Kieran Healy</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:7f404790088ee5d4df32362e6e36927a6d7c17d6e39258747a52bf0b29ff4b88</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] "Your Favorite ERGM Sucks"*, in Philadelphia</title>
+      <link>https://bactra.org/weblog/984.html</link>
+      <pubDate>Sun, 02 Dec 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-12-02. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:3193d4537cd9bb2c1fe5a71556e0c03b4fd2fd443675726e0ff8b9b1fdc05cc5</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] A lifetime supply of . . .</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/01/a-lifetime-supply-of/</link>
+      <pubDate>Sun, 02 Dec 2012 03:42:08 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-02T03:42:08Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:90cac64727d71c75645eb990fdaf4ebea282fb2208afd9e7418da143b7d3d643</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] $241,364.83 – $13,000 = $228,364.83</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/01/241364-83-13000-228364-83/</link>
+      <pubDate>Sun, 02 Dec 2012 01:33:18 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-02T01:33:18Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:c52552755030eace8ceeccc98f5cf385d17fccb9dbe22013fbd29bc3f69bb1f5</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] The purpose of writing</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/12/01/the-purpose-of-writing/</link>
+      <pubDate>Sat, 01 Dec 2012 14:34:05 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-12-01T14:34:05Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:dbad4193e0d34d208a889da6b38b8b3b44298d2dfa19329ea56d76068c935c81</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] “The scientific literature must be cleansed of everything that is fraudulent, especially if it involves the work of a leading academic”</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/30/16972/</link>
+      <pubDate>Fri, 30 Nov 2012 17:37:58 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-30T17:37:58Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:3ed20ab49bebea19362c7122a69a70fdee97941f88fbfc54f0de79708fef6a71</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] A graphics talk with no visuals!</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/30/a-graphics-talk-with-no-graphics/</link>
+      <pubDate>Fri, 30 Nov 2012 14:29:11 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-30T14:29:11Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:9b1a94248770e8c1f78b3119646e8d3846185780ea34c23df56b9629e6531a06</guid>
+    </item>
+    <item>
+      <title>[Terence Tao — What’s New] Lars Hormander</title>
+      <link>https://terrytao.wordpress.com/2012/11/30/lars-hormander/</link>
+      <pubDate>Fri, 30 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Terence Tao — What’s New</category>
+      <description>Source: Terence Tao — What’s New. Publication date: 2012-11-30. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Terence Tao</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:659f7ea11dc12cf1be85dc5ba2f6740cb1f6d11e6a35d390847e80a400594c09</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Symmetry and the Fourth Dimension (Part 8)</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/11/30/symmetry-and-the-fourth-dimension-part-8/</link>
+      <pubDate>Fri, 30 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-11-30. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:87d216216377fe3cef99cea44854c379a2dbe0d80a0793db6cec21c7f79aa6fd</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Books to Read While the Algae Grow in Your Fur, November 2012</title>
+      <link>https://bactra.org/weblog/algae-2012-11.html</link>
+      <pubDate>Fri, 30 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-11-30. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:6ce6a630a89cf61b1a95c60b48aaef5ac64f646820fbea9e160f6488a60f4793</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] More consulting experiences, this time in computational linguistics</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/29/more-consulting-experiences-this-time-in-computational-linguistics/</link>
+      <pubDate>Fri, 30 Nov 2012 00:28:21 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-30T00:28:21Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:c0969cdb3c19c5fa4de099c876cbd8a01a17ae74a0be089a402642b5b11051ae</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] What is expected of a consultant</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/29/what-is-expected-of-a-consultant/</link>
+      <pubDate>Thu, 29 Nov 2012 14:17:49 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-29T14:17:49Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:5bb485ee66214dee049e32eb83ca976ed4d3e49b80414699405c5272fa3eb1d7</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Should Harvard start admitting kids at random?</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/28/should-harvard-start-admitting-kids-at-random/</link>
+      <pubDate>Wed, 28 Nov 2012 18:21:18 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-28T18:21:18Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:ff6c4354af49187081c2a96e937460715e490fc11790aae4eba436e06ad7a790</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] My talk on statistical graphics at Mit this Thurs aft</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/28/my-talk-on-statistical-graphics-at-mit-this-thurs-aft/</link>
+      <pubDate>Wed, 28 Nov 2012 14:48:47 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-28T14:48:47Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:307b41eb5df82656e52565f855b054183c5a3c123d080bbba03a56453e28ebf8</guid>
+    </item>
+    <item>
+      <title>[Terence Tao — What’s New] Multiple recurrence in quasirandom groups</title>
+      <link>https://terrytao.wordpress.com/2012/11/28/multiple-recurrence-in-quasirandom-groups/</link>
+      <pubDate>Wed, 28 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Terence Tao — What’s New</category>
+      <description>Source: Terence Tao — What’s New. Publication date: 2012-11-28. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Terence Tao</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:2ba1638cbff64187cc242c3ee699fd2a681b4349a4a9f8089624242354ab8b7d</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] Almost All of the First 50 Billion Groups Have Order 1024</title>
+      <link>https://golem.ph.utexas.edu/category/2012/11/almost_all_of_the_first_50_bil.html</link>
+      <pubDate>Wed, 28 Nov 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-11-28. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Tom Leinster</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:8c76a1a4e35c67331456d243f5d70c849748ea74eee5ae47153d19685ac856a4</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Why aren’t Asians Republicans? For one thing, more than half of them live in California, New York, New Jersey, and Hawaii</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/27/why-arent-asians-republicans-for-one-thing-more-than-half-of-them-live-in-california-new-york-new-jersey-and-hawaii/</link>
+      <pubDate>Tue, 27 Nov 2012 17:05:06 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-27T17:05:06Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:535da54becfe42124b2c03b2fa99839f97efceb1374b3820894b8c4e2305b512</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Art/math</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/27/artmath/</link>
+      <pubDate>Tue, 27 Nov 2012 14:43:03 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-27T14:43:03Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:86402ade44319e3f25c1b0748735f04c6a078b7141a05fe92b72b6c3b5e07e65</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Mathematics of the Environment (Part 9)</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/11/27/mathematics-of-the-environment-part-9/</link>
+      <pubDate>Tue, 27 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-11-27. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:f29230ee2a6fd44c62db1d41531e83d0aa455d55e50a12385d18af771b1d4b60</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Politics as an escape hatch</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/26/politics-as-an-escape-hatch/</link>
+      <pubDate>Mon, 26 Nov 2012 20:38:21 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-26T20:38:21Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:63b171919893d1694a74f2b4496715cd19622b4f2686d5b4d0b71d11e5353f18</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] I need a title for my book on ethics and statistics!!</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/26/i-need-a-title-for-my-book-on-ethics-and-statistics/</link>
+      <pubDate>Mon, 26 Nov 2012 14:34:59 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-26T14:34:59Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:ebdd0e103b0b13e0be16ae02fe5f3ddc5ec6dd2683cc650d74aa66f4d4a3a990</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Life as a blogger: the emails just get weirder and weirder</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/25/life-as-a-blogger-the-emails-just-get-weirder-and-weirder/</link>
+      <pubDate>Sun, 25 Nov 2012 14:34:18 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-25T14:34:18Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:9c105b9c5396abb7d2767982cdbbaeda1f088b1b6ba5a1dd5a36b5af72d70d99</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] No one knows what it’s like to be the bad man</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/23/no-one-knows-what-its-like-to-be-the-bad-man/</link>
+      <pubDate>Fri, 23 Nov 2012 14:36:30 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-23T14:36:30Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:7ab88121bd52fb0808199e9e7b97d360eeaf00ef49b87d12b28b9f584f3d3523</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Red state blue state, or, states and counties are not persons</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/21/red-state-blue-state-or-states-and-counties-are-not-persons/</link>
+      <pubDate>Thu, 22 Nov 2012 02:28:58 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-22T02:28:58Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:3bec931e339499626adc422f89f8a287ad2206fb7d80e282b4a11050a5cb2282</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Readings for a two-week segment on Bayesian modeling?</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/21/readings-for-a-two-week-segment-on-bayesian-modeling/</link>
+      <pubDate>Wed, 21 Nov 2012 14:20:58 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-21T14:20:58Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:b6698b5509607ba0a07fa932f6da8fcc4608fac56f16701daeb4b08048abea10</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Mathematics for Sustainability (Part 2)</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/11/21/mathematics-for-sustainability-part-2/</link>
+      <pubDate>Wed, 21 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-11-21. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:58c08162b221543382d712036e65176572b314ec419dbe2f3338d475d816143e</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] “I know you aren’t the plagiarism police, but . . .”</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/20/i-know-you-arent-the-plagiarism-police-but2/</link>
+      <pubDate>Tue, 20 Nov 2012 14:45:45 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-20T14:45:45Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:fa50622ccfec13a2113a53a2a4a146c7bf045ed7b0f63fcdb354e1a922cf18b2</guid>
+    </item>
+    <item>
+      <title>[Terence Tao — What’s New] The closed graph theorem in various categories</title>
+      <link>https://terrytao.wordpress.com/2012/11/20/the-closed-graph-theorem-in-various-categories/</link>
+      <pubDate>Tue, 20 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Terence Tao — What’s New</category>
+      <description>Source: Terence Tao — What’s New. Publication date: 2012-11-20. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Terence Tao</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:f656bd7f0378394bba8602a41d8280fc36ed148b91db26c955662469a540ba6a</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Mathematics of the Environment (Part 8)</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/11/20/mathematics-of-the-environment-part-8/</link>
+      <pubDate>Tue, 20 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-11-20. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:10388e203ce463f09574d08572bebbfc8eae2934837ab0b6f1265f06bc51d64a</guid>
+    </item>
+    <item>
+      <title>[Gowers’s Weblog] What maths A-level doesn’t necessarily give you</title>
+      <link>https://gowers.wordpress.com/2012/11/20/what-maths-a-level-doesnt-necessarily-give-you/</link>
+      <pubDate>Tue, 20 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Gowers’s Weblog</category>
+      <description>Source: Gowers’s Weblog. Publication date: 2012-11-20. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Tim Gowers</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:2af5e3089aefa2fe88056f854261b9802f9a3840b90cbaa42269bdd41169ca2e</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Tradeoffs in information graphics</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/19/tradeoffs-in-information-graphics/</link>
+      <pubDate>Mon, 19 Nov 2012 17:36:23 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-19T17:36:23Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:0edb133bf4fa5b9eba4695bb50eecd6d471cf0392fb6de0d6da6a0f43803a36e</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] I can’t read this interview with me</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/19/i-cant-read-this-interview-with-me/</link>
+      <pubDate>Mon, 19 Nov 2012 14:59:59 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-19T14:59:59Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:60264d8aecc7bf51e47c444156f6ec7603a56fe03a838e79de001d489ce2a6ff</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] TwoVect</title>
+      <link>https://golem.ph.utexas.edu/category/2012/11/twovect.html</link>
+      <pubDate>Mon, 19 Nov 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-11-19. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Urs Schreiber</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:4bb427baf0c35009fbc823f5b2b96680c9f4486a0104b959fa42e812234c6dd6</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] How to teach methods we don’t like?</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/18/how-to-teach-methods-we-dont-like/</link>
+      <pubDate>Sun, 18 Nov 2012 14:18:38 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-18T14:18:38Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:e1887ee96bffabd6aba6020279cda77b531c7c2b08b27f7bc2e25c7db5b787f7</guid>
+    </item>
+    <item>
+      <title>[Terence Tao — What’s New] Spending symmetry</title>
+      <link>https://terrytao.wordpress.com/2012/11/18/spending-symmetry/</link>
+      <pubDate>Sun, 18 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Terence Tao — What’s New</category>
+      <description>Source: Terence Tao — What’s New. Publication date: 2012-11-18. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Terence Tao</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:7bd18fda663c5a3188a42c4d36bb7253c02b385ab899c72b51b13ad100ddf37f</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Horrible but harmless?</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/17/horrible-but-harmless/</link>
+      <pubDate>Sat, 17 Nov 2012 14:12:30 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-17T14:12:30Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:bac138432fb6d7d70c4eef02a235d4c3407e1789d07747d2717c5c50a86a1169</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Hacks, maps, and moon rocks: Recent items in the sister blog</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/16/recently-in-sister-blogs/</link>
+      <pubDate>Fri, 16 Nov 2012 17:47:25 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-16T17:47:25Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:f1058c036309989ac2033036bb3d7c011087697af79821217f12c42c28849d5b</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Stantastic!</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/16/stantastic/</link>
+      <pubDate>Fri, 16 Nov 2012 14:53:51 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-16T14:53:51Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:d431a6987b4794080bbe600659d3e69241d0eaf77eaec2675da29816a3c938fc</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Outta control political incorrectness</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/15/outta-control-political-incorrectness/</link>
+      <pubDate>Thu, 15 Nov 2012 14:11:28 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-15T14:11:28Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:2db361105e0d3f66abf2364ba21fbd2fb38e3f8d6a0e4dc5909c2fd618ba5472</guid>
+    </item>
+    <item>
+      <title>[Terence Tao — What’s New] UCLA Math Undergraduate Merit Scholarship for 2013</title>
+      <link>https://terrytao.wordpress.com/2012/11/15/ucla-math-undergraduate-merit-scholarship-for-2013/</link>
+      <pubDate>Thu, 15 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Terence Tao — What’s New</category>
+      <description>Source: Terence Tao — What’s New. Publication date: 2012-11-15. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Terence Tao</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:b9536342d865d6689d1427c66f3b4da67538142313fc0a45050bbeb24557527d</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Talk at Berkeley</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/11/15/talk-at-berkeley/</link>
+      <pubDate>Thu, 15 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-11-15. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:a5fa9d30bc84085b09a98b310fc72528785e6f74db4a0187ae06f2002aaee1f7</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Richer people continue to vote Republican</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/14/richer-people-continue-to-vote-republican/</link>
+      <pubDate>Wed, 14 Nov 2012 14:01:39 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-14T14:01:39Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:743d78f63ad6c715fc3349d8ade0f44b64998a368b6df0f690152ebe2cd71b53</guid>
+    </item>
+    <item>
+      <title>[Terence Tao — What’s New] Expanding polynomials over finite fields of large characteristic, and a regularity lemma for definable sets</title>
+      <link>https://terrytao.wordpress.com/2012/11/14/expanding-polynomials-over-finite-fields-of-large-characteristic-and-a-regularity-lemma-for-definable-sets/</link>
+      <pubDate>Wed, 14 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Terence Tao — What’s New</category>
+      <description>Source: Terence Tao — What’s New. Publication date: 2012-11-14. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Terence Tao</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:6760bc63a108239bac75f6804d2e8b2a47acc571320f9d6555dcccacede53b1e</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Stan at NIPS 2012 Workshop on Probabilistic Programming</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/13/stan-at-nips-2012-workshop-on-probabilistic-programming/</link>
+      <pubDate>Tue, 13 Nov 2012 16:30:09 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-13T16:30:09Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:b70d14084ecca0480c666e88f77d85b858afd2bbdf939bd54527c887c39150ee</guid>
+    </item>
+    <item>
+      <title>[Kieran Healy] The Long Shadow of the X-Case</title>
+      <link>https://kieranhealy.org/blog/archives/2012/11/13/the-long-shadow-of-the-x-case/</link>
+      <pubDate>Tue, 13 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Kieran Healy</category>
+      <description>Source: Kieran Healy. Publication date: 2012-11-13. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Kieran Healy</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:6b54c0990ac67f3a5538c136fb59b3b9f4d0e594af5af59a44a6df84411ded1a</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Mathematics of the Environment (Part 7)</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/11/13/mathematics-of-the-environment-part-7/</link>
+      <pubDate>Tue, 13 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-11-13. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:84b5b0ce4d2ff7dc74d51bf589941c61ff9fbe826b8eb23206417639f73b9bf8</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] 36-402, Spring 2012: Self-Assessment and Lessons Learned (Advanced Data Analysis from an Elementary Point of View)</title>
+      <link>https://bactra.org/weblog/983.html</link>
+      <pubDate>Tue, 13 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-11-13. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:b59c99eafcef38ed04902b1998c541ea2e73b8807f9c3758f90cd7fba69cbbbf</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] How to Lie With Statistics example number 12,498,122</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/12/how-to-lie-with-statistics-example-number-12498122/</link>
+      <pubDate>Mon, 12 Nov 2012 18:57:19 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-12T18:57:19Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:106a7d16c77c01d4f3cf5c32da5fb90e7eef4341157a688775a95796a49221e9</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Thinking like a statistician (continuously) rather than like a civilian (discretely)</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/12/thinking-like-a-statistician-continuously-rather-than-like-a-civilian-discretely/</link>
+      <pubDate>Mon, 12 Nov 2012 14:52:44 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-12T14:52:44Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:dc1f65761d72b85eb22c071fdd1ff731bed0316ee651af8453e476d9112199d9</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Course Announcement: Advanced Data Analysis from an Elementary Point of View</title>
+      <link>https://bactra.org/weblog/982.html</link>
+      <pubDate>Mon, 12 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-11-12. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:9ae36d40b79f531ab8890a2158ee80ef457a0bf97ee0fb1b194bb4437b2cea7d</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Final Projects (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/981.html</link>
+      <pubDate>Mon, 12 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-11-12. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:b2925caacb1d075993744899ad6b40b8afa9dcf37e647deb8c61dd8a07222f66</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Incredibly strange spam</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/11/incredibly-strange-spam/</link>
+      <pubDate>Sun, 11 Nov 2012 14:45:52 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-11T14:45:52Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:dc9c2b0e30d5458b11364b3954dbd957463e907665f5c9c7fb800d6b8fb9ff65</guid>
+    </item>
+    <item>
+      <title>[Terence Tao — What’s New] A direct proof of the stationarity of the Dyson sine process under Dyson Brownian motion</title>
+      <link>https://terrytao.wordpress.com/2012/11/11/a-direct-proof-of-the-stationarity-of-the-dyson-sine-process-under-dyson-brownian-motion/</link>
+      <pubDate>Sun, 11 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Terence Tao — What’s New</category>
+      <description>Source: Terence Tao — What’s New. Publication date: 2012-11-11. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Terence Tao</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:a309646e87ca131229df45b821f8c9bc376e2af81aa5ea2964048f70c7afaeb9</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Wind and Water on Mars</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/11/11/wind-and-water-on-mars/</link>
+      <pubDate>Sun, 11 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-11-11. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:49924b8f35daa72582ffc55a8feadcab80600733ea086418cff2ad162d5045fb</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] I don’t like this cartoon</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/10/16808/</link>
+      <pubDate>Sat, 10 Nov 2012 14:08:02 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-10T14:08:02Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:a02271b03604c59b3109982d33f0ddd7717d90b9c57a879a16aa74d3f633e45c</guid>
+    </item>
+    <item>
+      <title>[Kieran Healy] Installing Minion Pro</title>
+      <link>https://kieranhealy.org/blog/archives/2012/11/10/installing-minion-pro/</link>
+      <pubDate>Sat, 10 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Kieran Healy</category>
+      <description>Source: Kieran Healy. Publication date: 2012-11-10. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Kieran Healy</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:ec5ab22eb8499b622b484083885f2e6f15e6c85f3fc357a71b1cf21213335a36</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Mathematics of the Environment (Part 6)</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/11/10/mathematics-and-the-environment-part-6/</link>
+      <pubDate>Sat, 10 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-11-10. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:561120b6e10c3cc047afaca97b9c02b19bff1e93ef33ac9c883436c94dea1f36</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] The anti-Bayesian moment and its passing</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/09/the-anti-bayesian-moment-and-its-passing/</link>
+      <pubDate>Fri, 09 Nov 2012 16:26:53 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-09T16:26:53Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:6b15d841b93c6f3f9ac7102a4fe27b61b87fc380d9abdf82b93ade60980cd7e2</guid>
+    </item>
+    <item>
+      <title>[Gowers’s Weblog] What actually happened</title>
+      <link>https://gowers.wordpress.com/2012/11/09/what-actually-happened/</link>
+      <pubDate>Fri, 09 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Gowers’s Weblog</category>
+      <description>Source: Gowers’s Weblog. Publication date: 2012-11-09. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Tim Gowers</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:e7f36909b5ecd3629200aa1faffc21e8dc40793b075f16991443cc19649790de</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] Freedom From Logic</title>
+      <link>https://golem.ph.utexas.edu/category/2012/11/freedom_from_logic.html</link>
+      <pubDate>Fri, 09 Nov 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-11-09. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Mike Shulman</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:c13d022d059757680e50858d62f4e647c57fbc71218cda2d3400a5a1c45e3c60</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] Back in Business</title>
+      <link>https://golem.ph.utexas.edu/category/2012/11/back_in_business_1.html</link>
+      <pubDate>Fri, 09 Nov 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-11-09. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>David Corfield</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:c671b8d6f567451daba19e49a25074c32b359a7b4d1d232c5ae5b2e4d6a04e8f</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Several Hundred Degrees of Separation (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/980.html</link>
+      <pubDate>Fri, 09 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-11-09. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:c02cf158c897f04dfee3a9a57061df98cbcf42e1dcd43fa0deb50f781be578b5</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Lab: A Maze of Twisty Little Passages (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/979.html</link>
+      <pubDate>Fri, 09 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-11-09. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:ee64e31cab62139e635cffcc558098e40d97eefb2c0efa2064f2465f38ea5078</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Regular Expressions (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/978.html</link>
+      <pubDate>Fri, 09 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-11-09. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:564fb7fca638cdc16d1556169c7923a015d6a6615cc8502694a038afb2a8d956</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Poll aggregation and election forecasting</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/08/poll-aggregation-and-election-forecasting/</link>
+      <pubDate>Thu, 08 Nov 2012 18:04:49 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-08T18:04:49Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:dfde3c07464c27261ebab715e1559758ce33999a014b4e4daa08042f1e6d285f</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] 30/30/40 Nation</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/08/303040-nation/</link>
+      <pubDate>Thu, 08 Nov 2012 12:52:50 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-08T12:52:50Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:68e49509c4e23601c5976440193e3219b16f513e7e268c423526eb93dfc59094</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] "Exponential-family Random Network Models for Social Networks" (Next Week at the Statistics Seminar)</title>
+      <link>https://bactra.org/weblog/977.html</link>
+      <pubDate>Thu, 08 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-11-08. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:6cff44d79bbebe381d246fcdca2cd66db768c4149dc42f84fde20ac3bda591a2</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] A question about voting systems—unrelated to U.S. elections!</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/07/a-question-about-voting-systems-unrelated-to-u-s-elections/</link>
+      <pubDate>Thu, 08 Nov 2012 04:43:23 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-08T04:43:23Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:8a1654d10ce871fc41d07a99deedb292c8354fa7dc3b5fde06b543ad4dd3cc90</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Election reports</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/07/election-reports/</link>
+      <pubDate>Wed, 07 Nov 2012 17:34:45 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-07T17:34:45Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:cd2da55a569eea97d66f627d60269cf988bb6f4c001a5269e4f8327c127026f9</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] That last satisfaction at the end of the career</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/07/that-last-satisfaction-at-the-end-of-the-career/</link>
+      <pubDate>Wed, 07 Nov 2012 14:14:30 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-07T14:14:30Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:142c035a65d3d72156d877f9cb5ce074798a38af976cb9bb3d7e0ae0a1b169a8</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Graduate Program in Biostatistics</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/11/07/graduate-program-in-biostatistics/</link>
+      <pubDate>Wed, 07 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-11-07. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:9366651060749946a67266c0daaaf6cc41dd086cb9d50cd888edd7e7ba526adc</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Choose your default, or your default will choose you (election forecasting edition)</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/06/statistics-is-the-science-of-defaults-2/</link>
+      <pubDate>Tue, 06 Nov 2012 14:54:21 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-06T14:54:21Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:37c88954272ff700a3c2be18011ebae9c61f27d83d2ed45d1dc06d1022117383</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Why it can be rational to vote</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/06/why-it-can-be-rational-to-vote/</link>
+      <pubDate>Tue, 06 Nov 2012 14:53:57 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-06T14:53:57Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:97a32d1cfccb2100c8ef77576e40b5b9e069dc406d5f37d7fe42bf9375e36de3</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Mathematics of the Environment (Part 5)</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/11/06/mathematics-and-the-environment-part-5/</link>
+      <pubDate>Tue, 06 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-11-06. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:e0ef69060e15b0e6814bc6ebdef18f0e3664df9b255a533f10b0bb04b11b2e5a</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Someone is wrong on the internet, part 2</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/05/someone-is-wrong-on-the-internet-part-2-2/</link>
+      <pubDate>Mon, 05 Nov 2012 21:57:43 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-05T21:57:43Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:9d003f4bbc56863b86f48d8ba77e7078c1ce91a510efdc7b34530f428314acd5</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Let’s try this: Instead of saying, “The probability is 75%,” say “There’s a 25% chance I’m wrong”</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/05/lets-try-this-instead-of-saying-the-probability-is-75-say-theres-a-25-chance-im-wrong/</link>
+      <pubDate>Mon, 05 Nov 2012 14:17:00 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-05T14:17:00Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:0fb2cd4393d733e9b93b3c90d9718eaac53c736b033adaa550c2a2bc814982f2</guid>
+    </item>
+    <item>
+      <title>[Gowers’s Weblog] Mathematics meets real life</title>
+      <link>https://gowers.wordpress.com/2012/11/05/mathematics-meets-real-life/</link>
+      <pubDate>Mon, 05 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Gowers’s Weblog</category>
+      <description>Source: Gowers’s Weblog. Publication date: 2012-11-05. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Tim Gowers</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:aede23681f5f3e1bfc8d886aaccfa0dec8c0af9cf9d7466313f6ef1f30437945</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Basic Character Manipulation (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/976.html</link>
+      <pubDate>Mon, 05 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-11-05. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:f50a5b3b87d39adc5850fe185103bf31a49d380e1b25941d8e3c562e2c0968fb</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Someone is wrong on the internet</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/04/someone-is-wrong-on-the-internet/</link>
+      <pubDate>Sun, 04 Nov 2012 14:18:36 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-04T14:18:36Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:94f02862e34d100f7cfa315d238ccb6a3b27ad0c4ea7b344d1aeee68bc956b01</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Statistical methods that work in some settings but not others</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/03/16554/</link>
+      <pubDate>Sat, 03 Nov 2012 13:23:41 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-03T13:23:41Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:f44b6095a1b3d0b17aa50dc5517083f4093335c2a434ae4bdda1898b3d79291c</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Network Theory (Part 25)</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/11/03/network-theory-part-25/</link>
+      <pubDate>Sat, 03 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-11-03. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:69f4040688c70998d7a34f6277f10057004dc9f425498a29e47fdfcf0c71383d</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Not so fast on levees and seawalls for NY harbor?</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/02/not-so-fast-on-levees-and-seawalls-for-ny-harbor/</link>
+      <pubDate>Fri, 02 Nov 2012 13:34:22 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-02T13:34:22Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:c5f97d7406807c5e784cf86569859d936e4beaa5642026c9b6f9083575ab395e</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Antibiotic Diffusion and Outlier Resistance (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/975.html</link>
+      <pubDate>Fri, 02 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-11-02. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:8c9dded1b41a5f93b08e28a17a1449c0beeede676e49c1a6e7bbfeee11242aa5</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Lab: How Antibiotics Came to Peoria (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/974.html</link>
+      <pubDate>Fri, 02 Nov 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-11-02. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:be02c56b196663e8916d93fbcf36f0644058cf80dc996750d468877a9c56d17a</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] ‘Researcher Degrees of Freedom’</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/01/researcher-degrees-of-freedom/</link>
+      <pubDate>Thu, 01 Nov 2012 17:10:37 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-01T17:10:37Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:ee13cfc8b35fb5162e70330f42d5cb9489d52a8af0dae569e3aaf108d046e47e</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Recently in the sister blogs: special pre-election edition!</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/11/01/recently-in-the-sister-blogs-special-pre-election-edition/</link>
+      <pubDate>Thu, 01 Nov 2012 15:26:58 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-11-01T15:26:58Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:e1b8e3666b703bb314b2e16516b43a73b1c8d71deb98700ffc4b677f7fc32b84</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] Parametrized Mates and Multivariable Adjunctions</title>
+      <link>https://golem.ph.utexas.edu/category/2012/11/parametrized_mates_and_multiva.html</link>
+      <pubDate>Thu, 01 Nov 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-11-01. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Tom Leinster</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:fbf2842b8ca5b40d5ee2cf7181f0b2b27bbb2d6480bb1037f25248309855b70f</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] It not necessary that Bayesian methods conform to the likelihood principle</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/31/it-not-necessary-that-bayesian-methods-conform-to-the-likelihood-principle/</link>
+      <pubDate>Wed, 31 Oct 2012 18:31:34 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-31T18:31:34Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:fdb6aac50b5e259b0314b9434ad64db14179cc26a32966c54c61f3220f60fa4d</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Social scientists who use medical analogies to explain causal inference are, I think, implicitly trying to borrow some of the scientific and cultural authority of that field for our own purposes</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/31/social-scientists-who-use-medical-analogies-to-explain-causal-inference-are-i-think-implicitly-trying-to-borrow-some-of-the-scientific-and-cultural-authority-of-that-field-for-our-own-purposes/</link>
+      <pubDate>Wed, 31 Oct 2012 13:08:31 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-31T13:08:31Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:e2524624726bfd696ea93024bfae01574b91d997fb4e1a5b9e83fcdb39bccc95</guid>
+    </item>
+    <item>
+      <title>[Azimuth] The Mathematics of Planet Earth</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/10/31/the-mathematics-of-planet-earth/</link>
+      <pubDate>Wed, 31 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-10-31. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:9788e5fbe25ba8cca4de8851dad6213742ca3db2a5ce8a04b256c349e8d464a3</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Books to Read While the Algae Grow in Your Fur, October 2012</title>
+      <link>https://bactra.org/weblog/algae-2012-10.html</link>
+      <pubDate>Wed, 31 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-10-31. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:017c54ec399bcd02a14e8b915730b45858ce063c20898a905c7470924d88ed6b</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Optimization II: Stochastic, Constrained, and Penalized Optimization (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/973.html</link>
+      <pubDate>Wed, 31 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-10-31. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:6ff2400abcc168a4ce1728dd426e89f9f29f7022c5b4cbd61bf8c09df7e0dacf</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Real rothko, fake rothko</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/30/real-rothko-fake-rothko/</link>
+      <pubDate>Tue, 30 Oct 2012 13:22:43 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-30T13:22:43Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:e7c5572bcf4c53188efafdfdbf87fc3128115380f1af7fa9ca367398a1ad5697</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] “Communication is a central task of statistics, and ideally a state-of-the-art data analysis can have state-of-the-art displays to match”</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/29/communication-is-a-central-task-of-statistics-and-ideally-a-state-of-the-art-data-analysis-can-have-state-of-the-art-displays-to-match/</link>
+      <pubDate>Mon, 29 Oct 2012 13:04:04 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-29T13:04:04Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:c198dfd27e0e44e55d241ce7714f1cbcd4d58e7b3c224caff491fd5f6eb8d5a7</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Optimization I: Deterministic, Unconstrained Optimization (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/972.html</link>
+      <pubDate>Mon, 29 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-10-29. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:e64df8c0daa9fbf724ea0b06a8afd35af1b1957b9a8e04b9f86620bd76b967cb</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] A convenience sample and selected treatments</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/28/a-convenience-sample-and-selected-treatments/</link>
+      <pubDate>Sun, 28 Oct 2012 13:56:47 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-28T13:56:47Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:04750b7590ba6d48505f438baaf61f9ec3dd2ab81017eb103ec5ce154335f044</guid>
+    </item>
+    <item>
+      <title>[Terence Tao — What’s New] van Kampen’s theorem via covering spaces</title>
+      <link>https://terrytao.wordpress.com/2012/10/28/van-kampens-theorem-via-covering-spaces/</link>
+      <pubDate>Sun, 28 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Terence Tao — What’s New</category>
+      <description>Source: Terence Tao — What’s New. Publication date: 2012-10-28. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Terence Tao</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:40d133b72c84fb1e07c8f57ec72a8c80a411e1fcb02528b4b3e856304e923cb6</guid>
+    </item>
+    <item>
+      <title>[Azimuth] John Harte</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/10/27/john-harte/</link>
+      <pubDate>Sat, 27 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-10-27. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:c4b781f52e39c86aabe07b8a77a2bb693309a7418d28515bd7bccdb299c60e3a</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] My talk at the Larchmont public library this Sunday</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/26/my-talk-at-the-larchmont-public-library-this-sunday/</link>
+      <pubDate>Fri, 26 Oct 2012 16:27:17 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-26T16:27:17Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:0cacee104d1f42f2b351ab6ad3c4c89af6e71263b0844d655747bcd7d1d6aae5</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Steven Levitt says that he has a “good indicator” that Aaron Edlin, Noah Kaplan, Nate Silver, and I are “not so smart”</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/26/steven-levitt-says-that-he-has-a-good-indicator-that-aaron-edlin-noah-kaplan-nate-silver-and-i-are-not-so-smart/</link>
+      <pubDate>Fri, 26 Oct 2012 13:27:16 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-26T13:27:16Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:9f39c3c1100ec69d8a438bc7395e30b953aa9bab1f7115dd593721b10af21131</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] The Zorn Identity</title>
+      <link>https://golem.ph.utexas.edu/category/2012/10/the_zorn_identity.html</link>
+      <pubDate>Fri, 26 Oct 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-10-26. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Tom Leinster</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:a426065c296a833ec9aacc6e0501bbf0863f2087662a210c93c930282b0da035</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] The Intensity of 19th Century Literature (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/971.html</link>
+      <pubDate>Fri, 26 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-10-26. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:f0a514e35a2b3a74d02d5680631fe0f28aaac204faf487ef13c1e4eb616a3b91</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Lab: Bursts of Novels, or, Representation and the History of Genre (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/970.html</link>
+      <pubDate>Fri, 26 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-10-26. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:086437b22954636b5592ea373ef5bae691286fc2e445104e7a1d4cba728dea69</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] College football, voting, and the law of large numbers</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/25/college-football-voting-and-the-law-of-large-numbers/</link>
+      <pubDate>Thu, 25 Oct 2012 14:33:26 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-25T14:33:26Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:2e141ce3dfe5e80e28ca733a208c843c9e7cca928908ac7dd5f1b7a5814435db</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Health disparities are associated with low life expectancy</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/25/health-disparities-are-associated-with-low-life-expectancy/</link>
+      <pubDate>Thu, 25 Oct 2012 13:10:52 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-25T13:10:52Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:17c9bf48adf43f2cba981b940511f602fb4dd0e821ac239ef2fe02f184718d6e</guid>
+    </item>
+    <item>
+      <title>[Terence Tao — What’s New] Walsh’s ergodic theorem, metastability, and external Cauchy convergence</title>
+      <link>https://terrytao.wordpress.com/2012/10/25/walshs-ergodic-theorem-metastability-and-external-cauchy-convergence/</link>
+      <pubDate>Thu, 25 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Terence Tao — What’s New</category>
+      <description>Source: Terence Tao — What’s New. Publication date: 2012-10-25. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Terence Tao</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:5ead3567ecb22a68e4cc546824781bfe3f4514388899ce95d6144b0d060c6795</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Hey—has anybody done this study yet?</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/24/hey-has-anybody-done-this-study-yet/</link>
+      <pubDate>Wed, 24 Oct 2012 13:18:38 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-24T13:18:38Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:5d5c12fc8553e53e2a9f3d0e752a50859f68997f9b2564becf2ab93bf7906f18</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Simulation II: Markov Chains, Monte Carlo, and Markov Chain Monte Carlo (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/969.html</link>
+      <pubDate>Wed, 24 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-10-24. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:4dad48e22217743248067acfa557ba7f836bc1f9c6b8c5dc28d629fe42b322cb</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Two postdoc opportunities to work with our research group!! (apply by 15 Nov 2012)</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/23/two-postdoc-opportunities-to-work-with-our-research-group-apply-by-15-nov-2012/</link>
+      <pubDate>Tue, 23 Oct 2012 13:05:49 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-23T13:05:49Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:6325a04e31092e86015837c7fdca13103e1dd36dd64136f88d5b908b75ad3b9d</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Is it meaningful to talk about a probability of “65.7%” that Obama will win the election?</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/22/is-it-meaningful-to-talk-about-a-probability-of-65-7-that-obama-will-win-the-election/</link>
+      <pubDate>Mon, 22 Oct 2012 13:43:40 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-22T13:43:40Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:ae934e194a375b1fc621313b73ad8e1666afa47b6c0724cba6b8790e6e82f3d4</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Mathematics of the Environment (Part 4)</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/10/22/mathematics-of-the-environment-part-4/</link>
+      <pubDate>Mon, 22 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-10-22. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:ec84d30f2eb21f7dff9b91bcf1d33784839ebd92850380419510fbae4295a7bc</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Simulation I: Generating Random Variables (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/968.html</link>
+      <pubDate>Mon, 22 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-10-22. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:85f5158baa23516acf926488e08d9d4023b2c946189d38bf4300ddb383400206</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Model complexity as a function of sample size</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/21/model-complexity-as-a-function-of-sample-size/</link>
+      <pubDate>Sun, 21 Oct 2012 13:55:23 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-21T13:55:23Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:19edfb13513ddd54dc933043e74c55ac3e09438d46df5238a84424a8420e1295</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Mathematics for Sustainability (Part 1)</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/10/21/mathematics-for-sustainability-part-1/</link>
+      <pubDate>Sun, 21 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-10-21. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:0e0afc7c0f23b270be9605a51b49944252ceda70dffe6e7a558983c2de42aaa9</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] A statistical model for underdispersion</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/20/a-statistical-model-for-underdispersion/</link>
+      <pubDate>Sat, 20 Oct 2012 13:21:41 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-20T13:21:41Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:3a3c3f6589ced40b2372c36977a0031e8a7a4680d0dcfcc580c481147913df64</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Statistical discrimination again</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/19/statistical-discrimination-again/</link>
+      <pubDate>Fri, 19 Oct 2012 13:50:13 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-19T13:50:13Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:54e5a4d8283c85d5d27a97b4a55dc20883655c02c186b6806fb3f535fa9bd8c6</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Insanely Long Proofs</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/10/19/insanely-long-proofs/</link>
+      <pubDate>Fri, 19 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-10-19. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:cfe731ae31298b42e291c03d33546454b585b5bc58f6bd8c673ec33d834e7ae6</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] “Intrade to the 57th power”</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/18/in-a-sense-predictwiseq-is-intrade-to-the-57th-power/</link>
+      <pubDate>Fri, 19 Oct 2012 03:35:23 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-19T03:35:23Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:2aecd6baf4e465d646aa4607f20aa3a19a591079d28c4ffecb75aaf501ade063</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] IRB nightmares</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/18/irb-nightmares/</link>
+      <pubDate>Thu, 18 Oct 2012 13:16:58 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-18T13:16:58Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:636299fbc78b16404e8b035e6337c9ede5fee38261cbba3dbc1e6547692ad7a5</guid>
+    </item>
+    <item>
+      <title>[Terence Tao — What’s New] Garth Gaudry</title>
+      <link>https://terrytao.wordpress.com/2012/10/18/garth-gaudry/</link>
+      <pubDate>Thu, 18 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Terence Tao — What’s New</category>
+      <description>Source: Terence Tao — What’s New. Publication date: 2012-10-18. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Terence Tao</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:9beff36b95a007d01f56fbc67c0b8f5b619915e442da5ffd0a46889f9bb4b6fa</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] Object Classifiers and (∞,1)-Quasitoposes</title>
+      <link>https://golem.ph.utexas.edu/category/2012/10/object_classifiers_and_1quasit.html</link>
+      <pubDate>Thu, 18 Oct 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-10-18. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Mike Shulman</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:b976c8e4905ce7c4ccf2077d3535c398dfb35152d0aab3a04c82e6960c8d38c9</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Rust</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/17/rust/</link>
+      <pubDate>Wed, 17 Oct 2012 20:56:49 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-17T20:56:49Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:6dab83f25036af3a07bafe5b19b568a6441a00db7af966d350cb2a726b1857de</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] 100!</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/17/100/</link>
+      <pubDate>Wed, 17 Oct 2012 13:46:35 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-17T13:46:35Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:271ad06aa3cea345aa6f66beb4d0341decd060effa03fe18b5715053b485ceb4</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Elsevier: Strangling Libraries Worldwide</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/10/17/elsevier-strangling-libraries-worldwide/</link>
+      <pubDate>Wed, 17 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-10-17. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:4b42b0512c8032800c99a0c5cbb70dd940ab0cfdf10b0bdad15e808518d31977</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Using economics to reduce bike theft</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/16/using-economics-to-reduce-bike-theft/</link>
+      <pubDate>Tue, 16 Oct 2012 20:42:00 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-16T20:42:00Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:06d949d7a01ac56bcec56e5a11e446d9032b919244258fab9a71893dd48d4ee8</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Bayesian analogue to stepwise regression?</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/16/bayesian-analogue-to-stepwise-regression/</link>
+      <pubDate>Tue, 16 Oct 2012 13:08:19 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-16T13:08:19Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:d3fcc8cb4f250520a419ae24611470c8c5d242350d33b07e6f2222da170657c2</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Upcoming Gigs</title>
+      <link>https://bactra.org/weblog/967.html</link>
+      <pubDate>Tue, 16 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-10-16. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:0b72587ef629b22a02254bc7c4eda29c3ca54438ebba2aace87e8edc91b76841</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] "Community Detection and Link Prediction in Networks" (Next Week at the Statistics Seminar)</title>
+      <link>https://bactra.org/weblog/966.html</link>
+      <pubDate>Tue, 16 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-10-16. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:8156d6fa8b73d348b54fc858cdfe9b8db3992bcb89f64f07ac309a2b63a3fee7</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Notes on "Learning Bounds for Importance Weighting"</title>
+      <link>https://bactra.org/weblog/965.html</link>
+      <pubDate>Tue, 16 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-10-16. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:dd069f429558c7f34a661a52082b933e1a9515616ac86ba82e4a88feee21f0e8</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] The strange reappearance of Matthew Klam</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/15/the-strange-reappearance-of-matthew-klam/</link>
+      <pubDate>Mon, 15 Oct 2012 13:42:07 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-15T13:42:07Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:6a41d481255724504fdd96aec7005061d17e6e439e6c78cb718f2338b07f6c35</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Abstraction and Refactoring (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/964.html</link>
+      <pubDate>Mon, 15 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-10-15. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:27738a80f7205db7a669ae674efe470681f32341dc492d75e7425b4270db0fb6</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] If x is correlated with y, then y is correlated with x</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/14/if-x-is-correlated-with-y-then-y-is-correlated-with-x/</link>
+      <pubDate>Sun, 14 Oct 2012 13:58:10 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-14T13:58:10Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:275ab355450ef66f747ec48b2fc22c312c9b4d4f8b25693e65f3346405af3dad</guid>
+    </item>
+    <item>
+      <title>[Terence Tao — What’s New] The Chowla conjecture and the Sarnak conjecture</title>
+      <link>https://terrytao.wordpress.com/2012/10/14/the-chowla-conjecture-and-the-sarnak-conjecture/</link>
+      <pubDate>Sun, 14 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Terence Tao — What’s New</category>
+      <description>Source: Terence Tao — What’s New. Publication date: 2012-10-14. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Terence Tao</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:224e4407015cce0c69ceaf5d3c2e497647729fd70a649ff433e8339aa5886b6b</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] A real-life dollar auction game!</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/13/a-real-life-dollar-auction-game/</link>
+      <pubDate>Sat, 13 Oct 2012 13:28:29 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-13T13:28:29Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:9eca793706a59f5a0ef50c87a2168eb017ea09d286ba34cd21353db6d6826735</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Mathematics of the Environment (Part 3)</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/10/13/mathematics-of-the-environment-part-3/</link>
+      <pubDate>Sat, 13 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-10-13. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:b0e8422d7c446159e46e3399fd7004f616bd0214b51876f169b3e591020db5b9</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] The Curious Dependence of Set Theory on Order Theory</title>
+      <link>https://golem.ph.utexas.edu/category/2012/10/the_curious_dependence_of_set.html</link>
+      <pubDate>Sat, 13 Oct 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-10-13. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Tom Leinster</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:c4ea19986fe8879b3463069ce85b2ed45aa3fe3687fe9f6b344f16299eae4019</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Elderpedia</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/12/elderpedia/</link>
+      <pubDate>Fri, 12 Oct 2012 13:41:11 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-12T13:41:11Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:89a1ebce1421c236dc4044f2726cf15e4a8721d78586233f32365b5e3cc75fcb</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Midterm Exam (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/963.html</link>
+      <pubDate>Fri, 12 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-10-12. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:40c29a29cbe907c4e443221efe184f174028a797624f6f966d79fd2a21f9aab3</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Bayesian brains?</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/11/i-notice-a-slightly-garbled-version-of-bayesian-inference-which-provokes-some-thoughts-on-the-applicability-of-bayesian-models-of-human-reasoning/</link>
+      <pubDate>Thu, 11 Oct 2012 15:17:40 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-11T15:17:40Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:994408196114b2a34150f2e7e4cb9714c05727f7a6a0b75e414b966564757621</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Mathematics of the Environment (Part 2)</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/10/11/mathematics-of-the-environment-part-2/</link>
+      <pubDate>Thu, 11 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-10-11. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:65d44d0973d45608d5443bd48ef18beb3b6e1a70fa698367a092eef602ae943d</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] Analysis Fellowship in Edinburgh</title>
+      <link>https://golem.ph.utexas.edu/category/2012/10/analysis_fellowship_in_edinbur.html</link>
+      <pubDate>Thu, 11 Oct 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-10-11. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Tom Leinster</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:7a4e609df553acda19fe51d346788f3350ea61ea09bcb13df3ad0d9c6eaec0a8</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] My talk at MIT on Thurs 11 Oct</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/10/my-talk-at-mit-on-thurs-11-oct/</link>
+      <pubDate>Wed, 10 Oct 2012 18:20:58 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-10T18:20:58Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:1491249ad6af31906b3b594883805533f43a21a58cfa6d6b357ff30b4cceb75b</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Another reason why you can get good inferences from a bad model</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/10/another-reason-why-you-can-get-good-inferences-from-a-bad-model/</link>
+      <pubDate>Wed, 10 Oct 2012 13:51:13 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-10T13:51:13Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:accf331bdd24c1a9aec89e9a979bb4fe420335d458102e3d059b52ac4081f4a7</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Split, Apply, Combine: Using plyr (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/962.html</link>
+      <pubDate>Wed, 10 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-10-10. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:b629b496281d3fe0958dd2e3b87df97eab79bdc04970e616d32b01aef9d4f701</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] ￼Little Data: How traditional statistical ideas remain relevant in a big-data world</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/09/%ef%bf%bclittle-data-how-traditional-statistical-ideas-remain-relevant-in-a-big-data-world/</link>
+      <pubDate>Tue, 09 Oct 2012 13:52:41 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-09T13:52:41Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:6045a44b4dee00aba40572624b2a987001edf70aa01dbbcb7b493932e8d125e2</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] Tangency</title>
+      <link>https://golem.ph.utexas.edu/category/2012/10/tangency.html</link>
+      <pubDate>Tue, 09 Oct 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-10-09. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Urs Schreiber</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:1e0c8c030685688180248af0d6b6b11f46780920fa8afc32a5045b7e17fe410a</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Ethical standards in different data communities</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/08/ethical-standards-in-different-data-communities/</link>
+      <pubDate>Mon, 08 Oct 2012 14:12:17 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-08T14:12:17Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:3cc5fb06b64bb4eb974591b71e8dc4cb36f8931fc0f8d37eddec6c443aff2bbe</guid>
+    </item>
+    <item>
+      <title>[Azimuth] The Mathematical Origin of Irreversibility</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/10/08/the-mathematical-origin-of-irreversibility/</link>
+      <pubDate>Mon, 08 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-10-08. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:0cd0be2380d4cbf70d1be91ec42c942eb56895ac0fc32a4698e1612096a5213d</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Split, Apply, Combine: Using Basic R (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/961.html</link>
+      <pubDate>Mon, 08 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-10-08. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:02c40fdf152f675190ed5042c0ae3aa05d7a5a74d0d23cd5956996753a452a51</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] An (impressive) increase in survival rate from 50% to 60% corresponds to an R-squared of (only) 1%. Counterintuitive, huh?</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/07/r-squared-of-1/</link>
+      <pubDate>Sun, 07 Oct 2012 13:26:57 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-07T13:26:57Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:bef90e930fd35b0c1c3be13bf97291ccf97df36f2d16fdb22fa63e9a841233da</guid>
+    </item>
+    <item>
+      <title>[Terence Tao — What’s New] Some notes on Weyl quantisation</title>
+      <link>https://terrytao.wordpress.com/2012/10/07/some-notes-on-weyl-quantisation/</link>
+      <pubDate>Sun, 07 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Terence Tao — What’s New</category>
+      <description>Source: Terence Tao — What’s New. Publication date: 2012-10-07. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Terence Tao</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:7d1b4a25c826f327fcbf65d3cfaff26c6bad87f26a0488c5d487122060400513</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Comparing people from two surveys, one of which is a simple random sample and one of which is not</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/06/comparing-people-from-two-surveys-one-of-which-is-a-simple-random-sample-and-one-of-which-is-not/</link>
+      <pubDate>Sat, 06 Oct 2012 13:40:55 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-06T13:40:55Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:3c08ef80de66635f4da17dc1dd8695b7d7c4b547c17178c8f04d101a3532fa70</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Quantum Computing Position at U.C. Riverside</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/10/06/quantum-computing-position-at-u-c-riverside/</link>
+      <pubDate>Sat, 06 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-10-06. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:094eb30eac106b001391add6269ee77ecfabfdb33219668dba524d32d17654b9</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] I Made You a Likelihood Function, But I Ate It (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/960.html</link>
+      <pubDate>Fri, 05 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-10-05. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:1d44ac5b94b360f97b83230894e2050720ac9551a8b813692166668008ae1df8</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Lab: I Can Has Likelihood Surface? (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/959.html</link>
+      <pubDate>Fri, 05 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-10-05. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:70adbf48c809c8d42bf7897e0ae1e0c1b58535fd8c49a5ac9e7b68f8a6c2b661</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] High temperatures cause violent crime and implications for climate change, also some suggestions about how to better summarize these claims</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/05/high-temperatures-cause-violent-crime-and-implications-for-climate-change/</link>
+      <pubDate>Fri, 05 Oct 2012 09:46:51 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-05T09:46:51Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:6db563f3567ed757f0a3d7d1f9a51da8134eca8f73eb8b88ec4415f68c938b98</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Columbo does posterior predictive checks</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/04/columbo-does-posterior-predictive-checks/</link>
+      <pubDate>Thu, 04 Oct 2012 13:50:10 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-04T13:50:10Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:5c06fc6c0cee100f1d5cf6edbe4c4893b131f8b9163499b992a72ee2d2645e02</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Mathematics of the Environment (Part 1)</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/10/04/mathematics-of-the-environment/</link>
+      <pubDate>Thu, 04 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-10-04. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:ffbe3321405c1a4c331fefc8dc61a983944fea3b7189f4ff3e9844c2870fdcc0</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] Symmetric Monoidal Bicategories</title>
+      <link>https://golem.ph.utexas.edu/category/2012/10/symmetric_monoidal_bicategorie_1.html</link>
+      <pubDate>Thu, 04 Oct 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-10-04. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Tom Leinster</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:344436c72faf772f202f8656dd4cd3847c198e47064e34cf983b09c862dd958e</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Advice that’s so eminently sensible but so difficult to follow</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/03/advice-thats-so-eminently-sensible-but-so-difficult-to-follow/</link>
+      <pubDate>Wed, 03 Oct 2012 13:00:51 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-03T13:00:51Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:5fb0d6049d4b13a603e1ab12da448cb87a68902b18af1ad4454d314cdf7238c0</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Job!</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/02/job/</link>
+      <pubDate>Tue, 02 Oct 2012 20:23:40 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-02T20:23:40Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:1a8210901315ee6e4abb6b5e38223058b17f47450535f6e97856e62d442bc3ab</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Fighting a losing battle</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/02/fighting-a-losing-battle/</link>
+      <pubDate>Tue, 02 Oct 2012 13:56:12 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-02T13:56:12Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:d3d8b414ab898a22520cac65e509c3b2575af969fb352f030d583807f5b31602</guid>
+    </item>
+    <item>
+      <title>[Terence Tao — What’s New] Einstein’s derivation of E=mc^2 revisited</title>
+      <link>https://terrytao.wordpress.com/2012/10/02/einsteins-derivation-of-emc2-revisited/</link>
+      <pubDate>Tue, 02 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Terence Tao — What’s New</category>
+      <description>Source: Terence Tao — What’s New. Publication date: 2012-10-02. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Terence Tao</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:4a061486c9d0db95edc13194a245b050b6ec13c937e203017cc9b465607f1c39</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] “On Inspiring Students and Being Human”</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/10/01/on-inspiring-students-and-being-human/</link>
+      <pubDate>Mon, 01 Oct 2012 13:20:02 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-10-01T13:20:02Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:621db9fed12dfd4f1533d8357d59d2705d3e5a9f6b2334c29cd2b9cc39ea807e</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Petri Net Programming (Part 1)</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/10/01/petri-net-programming/</link>
+      <pubDate>Mon, 01 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-10-01. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:1b3e9daa2cf16805f3eef24d52253f036d75d32a5c0a7e493978e92ec577b26f</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Functions as Objects (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/958.html</link>
+      <pubDate>Mon, 01 Oct 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-10-01. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:5a65fcd0721fbb6648c1ccb6fa9b239bbc3ef8b79db527023db17eb8961d283e</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Computational problems with glm etc.</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/09/30/computational-problems-with-glm-etc/</link>
+      <pubDate>Sun, 30 Sep 2012 13:50:51 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-09-30T13:50:51Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:eb33aec8abe319cbe4e6dccad5f7b2b94104794ffd88722f0661194cf937f5b5</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] Where Do Ultraproducts Come From?</title>
+      <link>https://golem.ph.utexas.edu/category/2012/09/where_do_ultraproducts_come_fr.html</link>
+      <pubDate>Sun, 30 Sep 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-09-30. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Tom Leinster</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:2b4d92c2882783b6a749fa70c52cd3a093c5be4426cb61d11bfbc21179ad77dd</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Books to Read While the Algae Grow in Your Fur, September 2012</title>
+      <link>https://bactra.org/weblog/algae-2012-09.html</link>
+      <pubDate>Sun, 30 Sep 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-09-30. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:3de179ef4bbc94ac6c0b99c8c97962ef3b888422c226df469a477661b91306eb</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Jost Haidt</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/09/29/jost-haidt/</link>
+      <pubDate>Sat, 29 Sep 2012 13:59:49 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-09-29T13:59:49Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:4bf945ba7b5b3ebe1b2cefc2fd8d2a4a60cd5485ce2e2eabe5d4a4bad3d3f908</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] AdviseStat 47% Campaign Ad</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/09/28/advisestat-47-campaign-ad/</link>
+      <pubDate>Fri, 28 Sep 2012 13:42:45 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-09-28T13:42:45Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:02479b5e032e311a777793f1f9f0b14000ec9dd0c3500f0609e1a2a9d260462d</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Azimuth News (Part 2)</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/09/28/azimuth-news-part-2/</link>
+      <pubDate>Fri, 28 Sep 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-09-28. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:532f998f26a5397d0f902ebd91df5185c37e33bd0fac1f268b2f420bdab0fc26</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Dimensions of Anomaly (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/957.html</link>
+      <pubDate>Fri, 28 Sep 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-09-28. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:3e31f4afd100219bb172f4ed753f68e95efb78355e8666bec60290d6eea5cdd7</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Lab: Testing Our Way to Outliers (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/956.html</link>
+      <pubDate>Fri, 28 Sep 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-09-28. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:de8c1d5440192e1e16c89fbfb0cf844378335b5309043d00cf575daa96ce01dc</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] A Non-random Walk Down Campaign Street</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/09/27/a-non-random-walk-down-campaign-street/</link>
+      <pubDate>Thu, 27 Sep 2012 19:12:21 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-09-27T19:12:21Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:168ca7a3c5ea35b027e483df5d54d7636dedd2e192485f57ecf132c22b3fbc52</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Estimating seasonality with a data set that’s just 52 weeks long</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/09/27/estimating-seasonality-with-a-data-set-thats-just-52-weeks-long/</link>
+      <pubDate>Thu, 27 Sep 2012 13:53:20 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-09-27T13:53:20Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:33d0f0fc5ecadd6e34d2629e6935332196737b5dfca2b29981c4bc309d5c3eb2</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] What do statistical p-values mean when the sample = the population?</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/09/26/what-do-statistical-p-values-mean-when-the-sample-the-population/</link>
+      <pubDate>Wed, 26 Sep 2012 13:01:35 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-09-26T13:01:35Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:9785339415670f74ec876eb894cc249b78c8bdf144131b3f4fee73661ea8c463</guid>
+    </item>
+    <item>
+      <title>[Azimuth] Time Crystals</title>
+      <link>https://johncarlosbaez.wordpress.com/2012/09/26/time-crystals/</link>
+      <pubDate>Wed, 26 Sep 2012 12:00:00 GMT</pubDate>
+      <category>Azimuth</category>
+      <description>Source: Azimuth. Publication date: 2012-09-26. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>John Baez</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:edd2947a2ed4d1b41c5ba06dad804d66c0b97899c9a16d23bcc00c9849d89770</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] The Scope of Names (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/955.html</link>
+      <pubDate>Wed, 26 Sep 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-09-26. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:fc50d9f65e5047dd7cb338ec46c65771d0a86041eb5ab16443121d9673795175</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Incoherence of Bayesian data analysis</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/09/25/incoherence-of-bayesian-data-analysis/</link>
+      <pubDate>Tue, 25 Sep 2012 13:05:27 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-09-25T13:05:27Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:8aba6a78019cb2ef430c201857dbeb4630cc59f68953551f21f646158f401c0b</guid>
+    </item>
+    <item>
+      <title>[Terence Tao — What’s New] A partial converse to Bezout’s theorem</title>
+      <link>https://terrytao.wordpress.com/2012/09/25/a-partial-converse-to-bezouts-theorem/</link>
+      <pubDate>Tue, 25 Sep 2012 12:00:00 GMT</pubDate>
+      <category>Terence Tao — What’s New</category>
+      <description>Source: Terence Tao — What’s New. Publication date: 2012-09-25. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Terence Tao</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:83c080c9236bb6a10d295e6dbba0902c58d610199c29971eaff6ba5e177925e1</guid>
+    </item>
+    <item>
+      <title>[n-Category Café] Where Do Linearly Compact Vector Spaces Come From?</title>
+      <link>https://golem.ph.utexas.edu/category/2012/09/where_do_linearly_compact_vect.html</link>
+      <pubDate>Tue, 25 Sep 2012 12:00:00 GMT</pubDate>
+      <category>n-Category Café</category>
+      <description>Source: n-Category Café. Publication date: 2012-09-25. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Tom Leinster</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:87454f693297a16e25829fa57dc5bf1efed196ac33000b51d23237a376d4f195</guid>
+    </item>
+    <item>
+      <title>[Gelman et al. — Statistical Modeling] Analyzing photon counts</title>
+      <link>https://statmodeling.stat.columbia.edu/2012/09/24/analyzing-photon-counts/</link>
+      <pubDate>Mon, 24 Sep 2012 13:48:42 GMT</pubDate>
+      <category>Gelman et al. — Statistical Modeling</category>
+      <description>Source: Gelman et al. — Statistical Modeling. Published: 2012-09-24T13:48:42Z. Open the article link to read on the original site.</description>
+      <dc:creator>Andrew Gelman et al.</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:1caec075f522929945379dd72780b38769dca656327ca25324957c799560e577</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Standard Errors of the Cat Heart (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/954.html</link>
+      <pubDate>Mon, 24 Sep 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-09-24. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:e0b1f7e784a28e4160ce8628f5121c584b19dc9ef4ec4a8893afbf480953ecfc</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Lab: Like a Jackknife to the Heart (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/953.html</link>
+      <pubDate>Mon, 24 Sep 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-09-24. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:b150fd7d4b35e198026202f50f5c82b25408f851a31ada451cd9620cef560209</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Debugging (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/952.html</link>
+      <pubDate>Mon, 24 Sep 2012 12:00:00 GMT</pubDate>
+      <category>Three-Toed Sloth</category>
+      <description>Source: Three-Toed Sloth. Publication date: 2012-09-24. Time is unknown; 12:00 UTC is used only for sorting. Open the article link to read on the original site.</description>
+      <dc:creator>Cosma Shalizi</dc:creator>
+      <guid isPermaLink="false">urn:science-culture:archive:f749a82cb7e4c079a0de298fc772aa43879c7b35ea3d7204e37b93ddeb51f647</guid>
+    </item>
+    <item>
+      <title>[Three-Toed Sloth] Testing (Introduction to Statistical Computing)</title>
+      <link>https://bactra.org/weblog/951.html</link>
+      <pubDate>Mon, 24 Sep 2012 12:00:00 GMT</p
